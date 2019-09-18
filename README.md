@@ -1,2 +1,4 @@
 # cramer_s-rule
- cramer;matlab
+This is a matlab function file to solve unknowed linear equations.
+ps: Only have Chinese edition.
+ keywords: cramer;matlab
