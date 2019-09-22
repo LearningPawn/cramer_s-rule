@@ -2,4 +2,5 @@
 
 - This is a matlab function file which use cramer's rule to solve unknowed linear equations.
 - *ps: Only have Chinese edition.*
-- keywords: cramer;matlab
+- *pps: It just a easy way to make cramer's rule come true, and this is my first coding try.*
+- keywords: cramer; matlab
